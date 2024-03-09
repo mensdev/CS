@@ -4,6 +4,11 @@
 @import "jekyll-theme-minimal";
 
 .copy-code-button {
-    display: block;
+    display: inline-block;
+}
+
+.code-header{
+    padding: 20px;
+    text-align: right;
 }
   
